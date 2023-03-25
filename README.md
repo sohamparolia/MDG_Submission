@@ -8,3 +8,4 @@ Each of the educational institution names, musical instruments and sports has be
 In case of Music and Sport webpages, videos have been included using iframe to give a demo to anyone having no knowledge in that domain.
 CSS has been used to include background images and design tables.
 The home page includes a brief discription about myself.
+CSS used is internal CSS.
